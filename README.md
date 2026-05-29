@@ -1,1 +1,1 @@
-# lading-pages
+# ladin-pages
